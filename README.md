@@ -1,6 +1,6 @@
 # Storyboard
 
-An example prototyping app powered by [Storyboard](https://github.com/dfosco/storyboard), a stateful design prototyping framework.
+An example prototype using [Storyboard](https://github.com/dfosco/storyboard), a stateful prototyping framework for designers.
 
 ## Quick Start
 
