@@ -1,6 +1,6 @@
 # Storyboard
 
-A prototyping app powered by [Storyboard](https://github.com/dfosco/storyboard-source), a data-driven prototyping meta-framework for React.
+An example prototyping app powered by [Storyboard](https://github.com/dfosco/storyboard), a state-driven prototyping framework.
 
 ## Quick Start
 
